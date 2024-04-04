@@ -9,6 +9,7 @@ Revised: 2024-02-24
 ## Requirements:
 
 * [Ruby](https://www.ruby-lang.org/) 2.6.3 or greater.
+* `gem install reline`
 
 ## Recommended, but entirely optional:
 
